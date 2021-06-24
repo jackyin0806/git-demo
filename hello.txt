@@ -12,3 +12,4 @@ hello jackyin!! hello git!
 hello jackyin!! hello git!
 hello jackyin!! hello git!master
 hello jackyin!! hello git!
+hello jackyin!! hello git!hot-fix
